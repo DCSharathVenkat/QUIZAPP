@@ -1,4 +1,5 @@
-Simple Quiz Project
+**Simple Quiz Project**
+
 This is a simple quiz application built using HTML, CSS, and JavaScript. It displays one question at a time and allows users to select an answer. After selecting an answer, users can proceed to the next question, and at the end, their score is displayed.
 
 Project Structure
